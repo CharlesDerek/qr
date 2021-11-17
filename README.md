@@ -3,6 +3,8 @@
 Charles' - Universal JavaScript QRCode Generator:
 =================================================
 
+#[charlesderek.github.io](https://charlesderek.github.io/qr/) 
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
